@@ -1,4 +1,4 @@
-gold.flow_monthly_anomalies (
+CREATE TABLE gold.flow_monthly_anomalies (
   year INT,
   month INT,
 
